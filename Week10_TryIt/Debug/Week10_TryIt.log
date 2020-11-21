@@ -1,0 +1,3 @@
+﻿  week10_tryit.cpp
+C:\Users\Eder Guerrero\source\repos\Week10_TryIt\week10_tryit.cpp(9,36): warning C4101: 'sum': unreferenced local variable
+  Week10_TryIt.vcxproj -> C:\Users\Eder Guerrero\source\repos\Week10_TryIt\Debug\Week10_TryIt.exe

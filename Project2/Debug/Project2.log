@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Eder Guerrero\source\repos\Project2\Source.cpp(19,30): error C2059: syntax error: ';'
+C:\Users\Eder Guerrero\source\repos\Project2\Source.cpp(21,2): error C2059: syntax error: 'return'
+C:\Users\Eder Guerrero\source\repos\Project2\Source.cpp(22,1): error C2059: syntax error: '}'
+C:\Users\Eder Guerrero\source\repos\Project2\Source.cpp(22,1): error C2143: syntax error: missing ';' before '}'

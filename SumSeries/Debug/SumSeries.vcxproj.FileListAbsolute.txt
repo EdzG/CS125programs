@@ -1,0 +1,2 @@
+C:\Users\Eder Guerrero\source\repos\SumSeries\Debug\SumSeries.exe
+C:\Users\Eder Guerrero\source\repos\SumSeries\Debug\SumSeries.pdb

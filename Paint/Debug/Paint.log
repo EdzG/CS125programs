@@ -1,0 +1,3 @@
+﻿  paint.cpp
+C:\Users\Eder Guerrero\source\repos\Paint\paint.cpp(17,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Paint.vcxproj -> C:\Users\Eder Guerrero\source\repos\Paint\Debug\Paint.exe

@@ -1,0 +1,3 @@
+﻿  assign1A.cpp
+C:\Users\Eder Guerrero\source\repos\assign1A\assign1A.cpp(16,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  assign1A.vcxproj -> C:\Users\Eder Guerrero\source\repos\assign1A\Debug\assign1A.exe

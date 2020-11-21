@@ -1,0 +1,3 @@
+﻿  sumSeries.cpp
+C:\Users\Eder Guerrero\source\repos\SumSeries\sumSeries.cpp(13,6): warning C4101: 'denom': unreferenced local variable
+  SumSeries.vcxproj -> C:\Users\Eder Guerrero\source\repos\SumSeries\Debug\SumSeries.exe

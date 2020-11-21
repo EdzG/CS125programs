@@ -1,0 +1,2 @@
+C:\Users\Eder Guerrero\source\repos\TemperatureConvertion\Debug\TemperatureConvertion.exe
+C:\Users\Eder Guerrero\source\repos\TemperatureConvertion\Debug\TemperatureConvertion.pdb

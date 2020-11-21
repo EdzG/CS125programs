@@ -1,0 +1,2 @@
+C:\Users\Eder Guerrero\source\repos\Week10_TryIt\Debug\Week10_TryIt.exe
+C:\Users\Eder Guerrero\source\repos\Week10_TryIt\Debug\Week10_TryIt.pdb
