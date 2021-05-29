@@ -1,0 +1,9 @@
+{
+  "name": "testing-java-script",
+  "version": "0.0.0",
+  "description": "Testing JavaScript",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

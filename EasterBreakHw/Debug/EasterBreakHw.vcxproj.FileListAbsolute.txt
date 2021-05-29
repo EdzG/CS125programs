@@ -1,0 +1,2 @@
+C:\Users\Eder Guerrero\source\repos\EasterBreakHw\Debug\EasterBreakHw.exe
+C:\Users\Eder Guerrero\source\repos\EasterBreakHw\Debug\EasterBreakHw.pdb

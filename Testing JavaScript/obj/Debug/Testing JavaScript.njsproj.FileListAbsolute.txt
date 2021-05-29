@@ -1,0 +1,3 @@
+C:\Users\Eder Guerrero\source\repos\Testing JavaScript\obj\Debug\Testing JavaScript.njsprojAssemblyReference.cache
+C:\Users\Eder Guerrero\source\repos\Testing JavaScript\obj\Debug\Testing JavaScript.njsproj.CoreCompileInputs.cache
+C:\Users\Eder Guerrero\source\repos\Testing JavaScript\bin\Microsoft.NodejsTools.WebRole.dll

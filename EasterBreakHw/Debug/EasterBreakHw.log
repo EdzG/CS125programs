@@ -1,0 +1,5 @@
+﻿  EasterBreakHw.cpp
+  Functions.cpp
+C:\Users\Eder Guerrero\source\repos\EasterBreakHw\Functions.cpp(7,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  EasterBreakHw.vcxproj -> C:\Users\Eder Guerrero\source\repos\EasterBreakHw\Debug\EasterBreakHw.exe

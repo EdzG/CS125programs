@@ -1,0 +1,3 @@
+﻿  populatesTable.cpp
+C:\Users\Eder Guerrero\source\repos\PopulateContactTableSql\populatesTable.cpp(29,6): warning C4101: 'ssb': unreferenced local variable
+  PopulateContactTableSql.vcxproj -> C:\Users\Eder Guerrero\source\repos\PopulateContactTableSql\Debug\PopulateContactTableSql.exe

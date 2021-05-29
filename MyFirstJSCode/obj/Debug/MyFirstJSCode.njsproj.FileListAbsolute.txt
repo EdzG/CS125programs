@@ -1,0 +1,3 @@
+C:\Users\Eder Guerrero\source\repos\MyFirstJSCode\obj\Debug\MyFirstJSCode.njsprojAssemblyReference.cache
+C:\Users\Eder Guerrero\source\repos\MyFirstJSCode\obj\Debug\MyFirstJSCode.njsproj.CoreCompileInputs.cache
+C:\Users\Eder Guerrero\source\repos\MyFirstJSCode\bin\Microsoft.NodejsTools.WebRole.dll
